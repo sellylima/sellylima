@@ -1,4 +1,3 @@
-<img src="techly-readme-blue.gif"/>
 
 <br/>
 :octocat:
