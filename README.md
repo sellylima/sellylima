@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <br/>
-:octocat:
-<br/>
+
 
 ## Oiii! Sou a Selly Lima
-Descobri um novo mundo me apaixonei - troquei minha carreira financeira para tecnologia.<br>
+
+A tecnologia sempre foi minha verdadeira paixão. <3 <br>
+Me fascina esse mundo repleto de infinitas possibilidades e sigo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
+ <br>
+
  :heavy_check_mark: No momento estudando Javascrip e React<br>
 
 ## 
