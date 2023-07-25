@@ -4,7 +4,7 @@
 
 ## Oiii! Sou a Selly Lima
 
-Explorar as possibilidades da tecnologia é algo que me motiva e inspira diariamente !!
+Explorar as possibilidades da tecnologia é algo que me motiva e inspira diariamente.
 Sigo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
  <br>
 
