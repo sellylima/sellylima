@@ -4,8 +4,8 @@
 
 ## Oiii! Sou a Selly Lima
 
-A tecnologia sempre foi minha verdadeira paixão. <3 <br>
-Me fascina esse mundo repleto de infinitas possibilidades e sigo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
+Explorar as possibilidades da tecnologia é algo que me motiva e inspira diariamente <3 <br>
+Sigo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
  <br>
 
  :heavy_check_mark: No momento estudando Javascrip e React<br>
