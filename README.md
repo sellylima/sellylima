@@ -8,7 +8,7 @@ Explorar as possibilidades da tecnologia é algo que me motiva e inspira diariam
 Sigo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
  <br>
 
- :heavy_check_mark: No momento estudando Javascrip e React<br>
+ :heavy_check_mark: No momento estudando Javascrip<br>
 
 ## 
 <p align="left">
