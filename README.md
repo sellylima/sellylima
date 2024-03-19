@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<br/>
 
-## Oiii! Sou a Selly Lima
+# Oiii! Eu sou a Selly Lima!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-Explorar as possibilidades da tecnologia me motiva e inspira diariamente. Atualmente, estou em transição de carreira para me tornar uma desenvolvedora front-end, seguindo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. <br><br>
+Explorar as possibilidades da tecnologia me motiva e inspira diariamente. Atualmente, estou em transição de carreira para me tornar uma desenvolvedora front-end,
+seguindo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
+<br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://linkedin.com/in/christiane-barbosa/](https://www.linkedin.com/in/selly-lima/)) [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://instagram.com/christianebs90/](https://instagram.com/sellyvlima)) 
- <br>
- <br>
+ <br><br><br><br>
 
 ## Tecnologias
 <p align="left">
@@ -17,10 +17,8 @@ Explorar as possibilidades da tecnologia me motiva e inspira diariamente. Atualm
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="33" height="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="33" height="33" />
-          
-<br>
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="33" height="33" />        
+<br><br>
         
 ![](https://github-readme-stats.vercel.app/api?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
 <a href="http://www.github.com/sellylima"></a><br>
