@@ -2,9 +2,10 @@
 # Oiii! Eu sou a Selly Lima!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-Explorar as possibilidades da tecnologia me motiva e inspira diariamente. Atualmente, estou em transição de carreira para me tornar uma desenvolvedora front-end,
-seguindo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
-<br><br>
+Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br><br>
+Motivada pela exploração das possibilidades da tecnologia, estou em transição de carreira para me tornar uma desenvolvedora front-end. Busco constantemente aprimorar minhas habilidades de forma autodidata, em uma jornada empolgante de aprendizado contínuo.
+<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/sellyvlima/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com)
