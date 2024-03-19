@@ -8,6 +8,7 @@ seguindo em frente nesta jornada empolgante, aprimorando minhas habilidades e bu
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/sellyvlima/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=#0057ff)](https://www.behance.net/sellylima)
  <br><br><br><br>
 
 ## Tecnologias
