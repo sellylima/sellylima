@@ -5,7 +5,9 @@
 Explorar as possibilidades da tecnologia me motiva e inspira diariamente. Atualmente, estou em transição de carreira para me tornar uma desenvolvedora front-end,
 seguindo em frente nesta jornada empolgante, aprimorando minhas habilidades e buscando oportunidades de aprendizado contínuo. 
 <br><br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://linkedin.com/in/christiane-barbosa/](https://www.linkedin.com/in/selly-lima/)) [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)]([https://instagram.com/christianebs90/](https://instagram.com/sellyvlima)) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/sellyvlima/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com)
  <br><br><br><br>
 
 ## Tecnologias
