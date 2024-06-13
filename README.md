@@ -3,11 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br><br>
-Motivada pela exploração das possibilidades da tecnologia, estou em transição de carreira para me tornar uma desenvolvedora front-end. Busco constantemente aprimorar minhas habilidades de forma autodidata, em uma jornada empolgante de aprendizado contínuo.
+Motivada pela exploração das possibilidades da tecnologia,  atualmente estou me especializando como desenvolvedora front-end. Sou comprometida com o aprendizado contínuo e sempre dou o meu melhor em tudo que faço.
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/sellyvlima/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vanessa.limanasc@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=#0057ff)](https://www.behance.net/sellylima)
  <br><br><br><br>
@@ -18,10 +17,12 @@ Motivada pela exploração das possibilidades da tecnologia, estou em transiçã
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="33" height="33" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="33" height="33" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="33" height="33" />        
 <br><br>
         
 ![](https://github-readme-stats.vercel.app/api?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
