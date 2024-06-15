@@ -2,7 +2,7 @@
 # Oiii! Eu sou a Selly Lima!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br><br>
+Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br>
 Sempre fui fascinada por tecnologia, atualmente estou me especializando como desenvolvedora front-end focando em HTML, CSS, JavaScript e frameworks modernos . Sou comprometida com o aprendizado e me dedico para assegurar qualidade, inovação e crescimento contínuo.
 <br>
 
