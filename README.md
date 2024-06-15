@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br><br>
-Motivada pela exploração das possibilidades da tecnologia,  atualmente estou me especializando como desenvolvedora front-end. Sou comprometida com o aprendizado contínuo e sempre dou o meu melhor em tudo que faço.
+Sempre fui fascinada por tecnologia, atualmente estou me especializando como desenvolvedora front-end focando em HTML, CSS, JavaScript e frameworks modernos . Sou comprometida com o aprendizado e me dedico para assegurar qualidade, inovação e crescimento contínuo.
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
