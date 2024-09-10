@@ -2,8 +2,8 @@
 # Prazer, Selly Lima!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 <br>
-Entusiasta da tecnologia, apreciadora de café e devoradora de livros.<br>
-Sempre fui fascinada por tecnologia, atualmente estou me especializando como desenvolvedora front-end focando em HTML, CSS, JavaScript e frameworks modernos . Sou comprometida com o aprendizado e me dedico para assegurar qualidade, inovação e crescimento contínuo.
+Entusiasta de tecnologia, apaixonada por café, música e livros. <br>
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end. Estou me especializando em HTML, CSS, JavaScript e frameworks modernos. Sou comprometida com o aprendizado contínuo e busco sempre entregar soluções com qualidade, inovação e eficiência.
 <br><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/selly-lima/)
