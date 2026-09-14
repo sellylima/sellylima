@@ -22,7 +22,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="33" height="33" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="33" height="33" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="33" height="33" />
+
 <br><br>
         
 ![](https://github-readme-stats.vercel.app/api?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sellylima&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
